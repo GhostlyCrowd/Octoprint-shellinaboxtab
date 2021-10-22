@@ -1,6 +1,6 @@
 # OctoPrint-shellinaboxtab
 
-Quick and dirty plugin, based on the "Hello World!" Octoprint plugin example, that creates a Tab that points to a local Shell In A Box server for SSH. A settings option to configure the tab URL from the default "Https://octoprint.local:4200" is available.
+Quick and dirty plugin, based on the "Hello World!" Octoprint plugin example, that creates a Tab that points to a local Shell In A Box server for SSH. A settings option to configure the tab URL from the default "https://octoprint.local:4200" is available.
 
 ## Setup
 

@@ -20,3 +20,5 @@ Install manually using this URL:
 ## Configuration
 
    You can change the default URL via the Settings under "Shell In A Box Tab"
+
+![image](https://user-images.githubusercontent.com/1682110/138502946-2d10944e-7d65-45dc-8be3-7f87a804027e.png)

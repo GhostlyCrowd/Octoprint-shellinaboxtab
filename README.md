@@ -1,7 +1,8 @@
 **Disclaimer:**
-    Shell in a box or any exposure of SSH access publicly via port forwarding or any other means is highly discouraged. This plugin is designed to be used locally on a private network and thus the Default URL reflects this, as it should not resolve it accessed by port forwarding. External access to your Octoprint instance should never be via direct port forward and instead a VPN connection to the local network it resides on for remote access is regarded as the best option.
+    Shell in a box or any exposure of SSH access publicly via port forwarding or any other means is highly discouraged. This plugin is designed to be used locally on a private network and thus the Default URL reflects this, as it should not resolve even if Octoprint UI is accessed by port forwarding. External access to your Octoprint instance should never be via direct port forward and instead a VPN connection to the local network it resides on for remote access is regarded as the best option. A HAProxy setup is the bare minimum of acceptable for public facing Octoprint instances.
 
-ALWAYS, ALWAYS, ALWAYS change the default pi user password. Do not use this plugin in any form unless you have changed the default user passwords on the octopi image. 
+
+ALWAYS, ALWAYS, ALWAYS, change the default pi user password. Do not use this plugin in any form unless you have changed the default user passwords on the octopi image. 
 
    **If you choose to use this plugin and allow it to be accessed publicly via port forwarding to your Octoprint instance or any other means it is YOUR responsibility to secure it properly and any undesired access to your system and any reprocussions because of it are solely on you the end user and your decision to use this plugin outside of its intended use.**
 

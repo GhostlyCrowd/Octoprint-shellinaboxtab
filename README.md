@@ -13,7 +13,7 @@
 
 Install manually using this URL:
 
-   https://github.com/GhostlyCrowd/Octoprint-shellinaboxtab/
+   https://github.com/GhostlyCrowd/Octoprint-shellinaboxtab/releases/download/V0.0.1/Octoprint-shellinaboxtab.zip
 
    To use this plugin for Shell In A Box SSH, you must have it set up on your local Octoprint instance. Details on how to do a basic setup can be found here for most popular Linux distros. https://tecmint.com/shell-in-a-box-a-web-based-ssh-terminal-to-access-remote-linux-servers/
 
